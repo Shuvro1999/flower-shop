@@ -153,3 +153,22 @@ body{
 }
 /* Third part style End */
 /* Fourth part style Start */
+.fourth-part{
+    margin-top:30px;
+    margin:0px 130px;
+
+}
+.fourth-box-part{
+    margin-top: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.fourth-box-picture{
+    width:180px;
+    height:3oopx
+}
+
+/* Fourth part style End */
+/* Fiveth part style Start */
